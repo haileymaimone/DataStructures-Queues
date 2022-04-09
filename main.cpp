@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////////////////////////
 //
 //  Assign4 - Queue Class - CSC-328
-//  Group Members:  Hailey Maimone, Ricky Peddicord, Kelli Huff, Michael Mickey
+//  Hailey Maimone
 //
 //  PROGRAM SYNOPSIS:  This program demonstrates the queue class. It reads in
 //  	values from an input file named "input.txt".  The line is read in as
